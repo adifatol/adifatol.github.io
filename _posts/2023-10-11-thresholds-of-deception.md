@@ -1,7 +1,9 @@
+---
 layout: post
 title: "Thresholds of deception"
-date: 2023-10-11 09:00:00 -0000
+date: 2023-10-11
 categories: AGI Philosophy
+---
 
 ## Thresholds of deception
 Exploring the Risks of Artificial General Intelligence
