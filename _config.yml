@@ -1,3 +1,14 @@
 theme: jekyll-theme-minimal
 title: Adi Fatol
 description: Limits, thresholds, magnitudes and infinities.
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
