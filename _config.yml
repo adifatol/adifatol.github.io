@@ -12,3 +12,5 @@ defaults:
       type: "pages"
     values:
       layout: "page"
+pagination:
+  per_page: 10
