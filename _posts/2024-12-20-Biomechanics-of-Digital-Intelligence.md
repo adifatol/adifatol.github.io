@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Biomechanics of Digital Intelligence"
-date: 2024-20-12
+date: 2024-12-20
 categories: AGI Philosophy
 ---
 
